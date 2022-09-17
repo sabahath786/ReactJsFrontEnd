@@ -1,0 +1,19 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.webcam_recording_main .webcam_recording_status{
+    /* margin: auto; */
+    width: 40%;
+    height: auto;
+    border: 3px solid #73AD21;
+    text-align: center;
+}
+
+.webcam_recording_buttons{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    /* text-align: center; */
+}
+  
